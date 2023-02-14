@@ -1,1 +1,1 @@
-This repository contains solutions to shell tasks
+How to use variabes, create alias command and to expand
